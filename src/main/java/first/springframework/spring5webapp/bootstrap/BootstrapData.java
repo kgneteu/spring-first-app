@@ -1,11 +1,11 @@
-package first.sprpingframework.spring5webapp.bootstrap;
+package first.springframework.spring5webapp.bootstrap;
 
-import first.sprpingframework.spring5webapp.domain.Author;
-import first.sprpingframework.spring5webapp.domain.Book;
-import first.sprpingframework.spring5webapp.domain.Publisher;
-import first.sprpingframework.spring5webapp.repositiories.AuthorRepository;
-import first.sprpingframework.spring5webapp.repositiories.BookRepository;
-import first.sprpingframework.spring5webapp.repositiories.PublisherRepository;
+import first.springframework.spring5webapp.domain.Publisher;
+import first.springframework.spring5webapp.repositiories.AuthorRepository;
+import first.springframework.spring5webapp.repositiories.BookRepository;
+import first.springframework.spring5webapp.repositiories.PublisherRepository;
+import first.springframework.spring5webapp.domain.Author;
+import first.springframework.spring5webapp.domain.Book;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 

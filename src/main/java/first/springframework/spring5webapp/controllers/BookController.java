@@ -1,6 +1,6 @@
-package first.sprpingframework.spring5webapp.controllers;
+package first.springframework.spring5webapp.controllers;
 
-import first.sprpingframework.spring5webapp.repositiories.BookRepository;
+import first.springframework.spring5webapp.repositiories.BookRepository;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;

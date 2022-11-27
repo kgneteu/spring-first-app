@@ -1,4 +1,4 @@
-package first.sprpingframework.spring5webapp.domain;
+package first.springframework.spring5webapp.domain;
 
 import jakarta.persistence.*;
 
